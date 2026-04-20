@@ -8,6 +8,10 @@ Spring Boot app that:
 * Solves a SQL problem
 * Submits the solution using JWT authentication
 
+## Main Implementation
+The core logic is implemented in:
+DemoApplication.java
+
 ## Tech Stack
 
 * Java
