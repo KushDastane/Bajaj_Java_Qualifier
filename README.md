@@ -20,6 +20,9 @@ Spring Boot app that:
 ./mvnw.cmd spring-boot:run
 ```
 
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/447a27fa-edd7-413a-8344-63a7b9fb2af7" />
+
+
 ## Workflow
 
 1. Generate webhook
